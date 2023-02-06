@@ -15,6 +15,45 @@
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
 los temas propuestos:
 
+![image](https://user-images.githubusercontent.com/104925648/216991451-6021f300-db6f-4a5b-8c27-e49aa420d0d8.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216991500-753c05df-fa1a-4f59-b5e4-a7a072250208.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216991679-9334d3db-409f-4c87-8f6a-4da1695c6bff.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216991749-63775a4f-1d4a-4bec-89b5-04c5ef08fe0f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216991809-07a229f0-2ad1-41f3-b4e7-5c386407042e.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216991856-6c1e669a-770b-402e-9ce7-b060c6ea37f3.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216991899-928fdfa5-d3fd-4bd0-91d3-a665f63334bf.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216991960-2da57c8e-52f0-4f9e-b900-9398c00d632c.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992012-feaf23d4-ae05-4af3-b81d-329d55b0e97b.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992063-79a69a5c-de38-477c-8baa-26557df4cf9c.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992107-4645b338-47fb-4cc0-8ca6-00b65709654d.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992151-f3d8a282-a6cd-4734-8e11-a86585cfbb21.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992185-212e003c-65d0-4ffd-a82e-f9672884b94f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992239-005d20a3-568b-4401-97a2-90d05e77abd9.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992266-1014b4ab-e782-4452-8a14-7d29d1ec9934.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992309-f6cf6787-b19b-4fa7-8474-904e12c0acfc.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992373-cd20cc3d-8bec-4e49-8a01-bacb144287b3.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992423-753ed4cf-0c12-4189-a8f8-1ecccd67e761.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992456-375bdf93-e3dc-437a-8210-c1c18bd31553.png)
+
+![image](https://user-images.githubusercontent.com/104925648/216992503-7c4ced25-957a-4fb6-a978-5dcd02f3cf88.png)
 
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
