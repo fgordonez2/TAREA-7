@@ -365,13 +365,120 @@ se muestra y si R1 se abre, el voltaje a través de R1
 
 ## Sección 14-1 Inductancia mutua
 
-2.Determine el coeficiente de acoplamiento cuando LM 5 1 mH, L1 5 8 mH, y L2 5 2 mH.
+2.Determine el coeficiente de acoplamiento cuando LM = 1 mH, L1 = 8 mH, y L2 = 2 mH.
 
+![image](https://user-images.githubusercontent.com/104925648/217044893-fe2bcbef-9d47-46df-b4f7-002bad4891aa.png)
 
+## Sección 14-2  El transformador básico
 
-## Sección 12-2 Tipos de capacitores
+4.Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas
+vueltas debe haber en el devanado secundario?
 
-## Sección 12-8 Circuitos de capacitor conmutado
+![image](https://user-images.githubusercontent.com/104925648/217045219-7dd7960e-2c6a-4dc4-bbea-cedbd9dc7a85.png)
+
+## Sección 14-3 Transformadores elevadores y reductores
+
+6.Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/104925648/217045709-d9361d8d-07ee-4a51-8dc2-4167ee76bc98.png)
+
+8.¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para
+obtener un voltaje secundario de 60 V de ca?
+
+![image](https://user-images.githubusercontent.com/104925648/217046030-e7a86373-2446-4333-9a0e-6891c04a384f.png)
+
+10.El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario
+si la relación de vueltas es de 0.2?
+
+![image](https://user-images.githubusercontent.com/104925648/217046225-73841ab1-9a58-466f-9545-580bf5125693.png)
+
+12.¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/104925648/217046311-dfd4e36a-544f-4d01-aab0-2c315f9942a5.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217046505-f619926a-299b-4c1c-a34c-32fbe0f39393.png)
+
+## Sección 14-4 Carga del devanado secundario
+
+14.Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/104925648/217046711-744d6767-2c98-4f72-bcd8-e756df9eda58.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217047402-5f8669c9-d3d1-4955-af70-6d66fa6e96b2.png)
+
+## Sección 14-5  Carga reflejada
+
+16.¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/104925648/217047564-064bc2f0-7c91-4e69-bcdf-1cd07a8c0c9f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217047644-da108fb9-b6f7-4f5c-b507-94ccd09dc93b.png)
+
+## Sección 14-6  Igualación de impedancia
+
+18.En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia
+máxima al altavoz de 4 ohm
+
+![image](https://user-images.githubusercontent.com/104925648/217047883-cd9a74c2-0f47-427e-b2d7-f208600e9008.png)
+
+20.Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50
+para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 ohm. Especifique el
+número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
+
+![image](https://user-images.githubusercontent.com/104925648/217047977-2983827f-a007-4ff0-a864-657b5054b623.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217048637-04d76081-4e6f-4460-9436-af5bcd9f6b0b.png)
+
+## Sección 14-7 Características de un transformador no ideal
+
+22.¿Cuál es la eficiencia del transformador en el problema 21?
+
+![image](https://user-images.githubusercontent.com/104925648/217050205-dc49e65b-1c60-4fb4-a448-6e89e9caa463.png)
+
+24.La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de
+ca. El voltaje secundario es de 600 V
+
+- (a) ¿Cuál es la corriente máxima en la carga?
+- (b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+- (c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+
+![image](https://user-images.githubusercontent.com/104925648/217050511-082d4051-b354-4241-9f8b-155405b50534.png)
+
+26.La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz. 
+
+- (a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+- (b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+- (c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/104925648/217050808-f5389541-d1b7-4113-843d-ea8d61f9789c.png)
+
+## Sección 14-8 Transformadores con tomas y devanados múltiples
+
+28.Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma
+del devanado secundario al devanado primario.
+
+![image](https://user-images.githubusercontent.com/104925648/217051014-e870e347-d149-4d7f-9b3e-dab8c5032da0.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217051452-c8e637fc-831b-4c51-b2dc-850f565c6f61.png)
+
+30.En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? 
+Determine cada voltaje secundario para operación con 240 V
+
+![image](https://user-images.githubusercontent.com/104925648/217051569-12d51f83-314c-4431-a656-d6d10a6fdaad.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217052389-33ca5458-0d41-4dc1-969d-bbbb7d4366af.png)
+
+## Sección 14-9 Localización de fallas
+
+32.Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V.
+Una investigación má sa fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso 
+en la investigación del problema? 
+
+![image](https://user-images.githubusercontent.com/104925648/217053023-0deafbc2-c9cb-4973-96c7-3b9949487ae4.png)
+
+34.Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+
+![image](https://user-images.githubusercontent.com/104925648/217053478-f746a2e8-f4f7-4393-ab92-08bf3a0f6a4d.png)
 
 ># 4. VÍDEO
 
