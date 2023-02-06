@@ -484,10 +484,16 @@ en la investigación del problema?
 
 ># 5. CONCLUSIONES
 
-- Los
-- Ñ
-- MK
-- HFG
+- En esta tarea aprendi que es un inductor y de como se compone, del material que esta hecho y lo que mas se me llamo la atención fue de que existen
+  inductores en serie y paralelo y siempre estará alambrado a diferencia de los circuitos normales.
+- La medida en la que un inductor se opone al cambio en la intensidad de la corriente que circula por él se denomina inductancia.
+- A mayor cantidad de espiras enrolladas la inductancia es mayor. Si además se agrega un núcleo ferro-magnético, la inductancia también aumenta. 
+  El valor de la inductancia está dado por la expresión:
+- La diferencia principal que hay entre el transformador ideal y el real, es que en el transformador ideal no se consideran ningún tipo de perdidas
+ y en el transformador real se consideran las pérdidas, como las de dispersión, las   de   las   bobinas   (cobre)   y   las   del   núcleo.
+- El transformador es un dispositivo que cambia de voltaje de un circuito a otro a través de la inducción electromagnética, sirven para aumentar o 
+  disminuir latensión que viene de la sub-estación. Existen diferentes tipos y capacidades de transformadores como por ejemplo, transformadores de 
+  corriente personalizada, de alta tensión, eléctricos, de audio, depotencia, entre otros.
   
 ># 6. BIBLIOGRAFÍA
 
