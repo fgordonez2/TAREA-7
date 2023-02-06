@@ -2,14 +2,14 @@
 ># 1. OBJETIVOS
 # General:
 
-- Comprender la corriente alterna, voltaje alterno y los circuitos con capacitores, mediante el análisis de los temas propuestos, para
-  desarrollar correctamente los ejercicios planteados y aplicar los conocimientos adquiridos hasta hoy.
+- Comprender los conceptos de inductores y transformadores, mediante la investigación de los capítulos 13 y 14 del libro "Principios de Circuitos Eléctricos" de Thomas Floyd, para desarrollar correctamente los ejercicios planteados con ayuda de los conocimientos adquiridos en clase.
 
  # Específicos:
  
- - Determinar las formas en que se puede expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente
- - Identificar las formas de onda no sinusoidales en corriente alterna y variable con el tiempo
- - Definir la capacitancia total de una conexión en serie y en paralelo de capacitores
+ - Determinar la inductancia equivalente de inductores enserie a partir de valores medidos
+ - Calcular la reactancia inductiva en paralelo y serie apartir de las mediciones
+ - Entender en qué consiste el fenómeno de la inducción electromagnética mediante la ley de Faraday la Ley de Lenz
+ - Analizar el funcionamiento de un transformador
  
 ># 2. MARCO TEÓRICO (RESUMEN)
 Luego de una amplia consulta bibliográfica; he realizado mapas conceptuales y mentales en donde describo el resumen de
