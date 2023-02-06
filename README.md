@@ -482,6 +482,8 @@ en la investigación del problema?
 
 ># 4. VÍDEO
 
+https://youtu.be/Slqq7M7lRfA
+
 ># 5. CONCLUSIONES
 
 - En esta tarea aprendi que es un inductor y de como se compone, del material que esta hecho y lo que mas se me llamo la atención fue de que existen
