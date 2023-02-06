@@ -57,47 +57,215 @@ los temas propuestos:
 
 
 ># 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-# Resolución de ejercicios pares *CAPITULO 11*:
+# Resolución de ejercicios pares *CAPITULO 13*:
 
 ## Autoevaluación:
 
-2.Durante cada ciclo, una onda seno alcanza un valor pico
+2.Una inductancia de 0.33 mH es más pequeña que
 
-- a) una vez
-- **b) dos veces** ←
+- a) 33 uH
+- b) 330 uH
+- c) 0.05 mH
+- **d) 0.0005 H** ←
 
-4.Una onda seno con un periodo de 2 ms cambia más rápido que una onda seno con un periodo de
+4.Cuando la corriente que circula a través de un inductor se duplica, la energía guardada
 
-- a) 1 ms
-- **b) 0.0025 s** ←
-- c) 1.5 ms
-- d) 1200 ms
+- a) se duplica
+- **b) se cuadruplica** ←
+- c) se reduce a la mitad
+- d) no cambia
+
+6.La inductancia de una bobina de núcleo de hierro se incrementa si
+
+- a) **aumenta la cantidad de vueltas** ←
+- b) se quita el núcleo de hierro
+- c) aumenta la longitud del núcleo
+- d) se utiliza un alambre más grande
+
+8.Tres inductores de 1 mH, 3.3 mH y 0.1 mH, respectivamente, se conectan en paralelo. La inductancia total es
+
+- a) 4.4 mH 
+- b) mayor que 3.3 mH 
+- c) **menor que 0.1 mH** ←
+- d) las respuestas (a) y (b)
+
+10.Se aplica un voltaje sinusoidal entre las terminales de un inductor. Cuando la frecuencia del voltaje se incrementa, la corriente
+
+- a) **disminuye** ←
+- b) aumenta
+- c) no cambia
+- d) momentáneamente se va a cero
+
+12.Se conecta un ohmmetro entre las terminales de un inductor y la aguja indica un valor infinito. El inductor
+
+- a) es bueno
+- b) **está abierto** ←
+- c) está en cortocircuito
+- d) es resistivo
+
+## Exámen rápido de dinámica de circuitos
+
+Consulte la figura 13-45.
+
+![image](https://user-images.githubusercontent.com/104925648/216997549-c5225fbf-dde5-48ee-a80e-7e5e0243a08e.png)
+
+2.Si el interruptor se mueve de la posición 3 a la posición 4, la inductancia entre A y B
+
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+
+Consulte la figura 13-48.
+
+![image](https://user-images.githubusercontent.com/104925648/216997921-ed688932-0fb8-4c1f-90c1-c8beef98874e.png)
+
+4.Si L disminuye de 10 mH a 1 mH y el interruptor se cierra, la constante de tiempo
+
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+
+Consulte la figura 13-51.
+
+![image](https://user-images.githubusercontent.com/104925648/216998125-e316a2fa-4643-4ea8-b2a6-3eaccf18fa41.png)
+
+6.Si la frecuencia de la fuente de voltaje se incrementa, la corriente total
+
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+
+8.Si la frecuencia de la fuente de voltaje disminuye, la razón de los valores de las corrientes a través de L2 y L3
+
+- a) aumenta
+- b) disminuye
+- c) **no cambia** ←
+
+Consulte la figura 13-52.
+
+![image](https://user-images.githubusercontent.com/104925648/216998490-4f1a88d4-c7dc-4ee2-acf8-2c106842a279.png)
+
+10.Si L3 se abre, el voltaje a través de L2
+
+- a) **aumenta** ←
+- b) disminuye
+- c) no cambia
+
+## Sección 13-1 El inductor básico
+
+2.Convierta los siguientes valores en microhenries:
+
+- a) 300 mH
+- b) 0.08 H
+- c) 5 mH
+- d) 0.00045 mH
+
+![image](https://user-images.githubusercontent.com/104925648/217001553-1c600c87-7465-464d-aaa6-e89b5d615210.png)
+
+4.Se inducen 50 volts en una bobina de 25 mH. ¿Con qué rapidez cambia la corriente?
+
+![image](https://user-images.githubusercontent.com/104925648/217001616-52951e9d-a0c7-4b87-8298-d11638c54811.png)
+
+6.
+
+![image](https://user-images.githubusercontent.com/104925648/217002954-fdfcb6d5-588f-4ba5-b9c8-861070c4b2b4.png)
+
+8.Compare la inductancia de dos inductores idénticos excepto que el inductor 2 tiene dos veces la cantidad de vueltas del inductor 1.
+
+![image](https://user-images.githubusercontent.com/104925648/217003994-39e3c8cd-5c5f-477c-a4a2-d600e9866743.png)
+
+10.
+
+![image](https://user-images.githubusercontent.com/104925648/217005268-da44ee88-d4af-42bb-97b9-3ec461636d7a.png)
+
+## Sección 13-3 Inductores en serie y en paralelo
+
+12.Usted requiere una inductancia total de 50 mH. Tiene disponibles una bobina de 10 mH y otra de 22 mH.
+   ¿Cuánta inductancia adicional necesita?
+
+![image](https://user-images.githubusercontent.com/104925648/217005876-5f379903-5ea4-45ae-afc1-3777a473e5d3.png)
+
+14.En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/104925648/217005986-b1570fd9-8f3c-4d87-ab2f-009936cfb714.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217006997-44c5ed54-7940-40f3-92e4-3779a985d301.png)
+
+ 16.Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH.
+    ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
+ 
+ ![image](https://user-images.githubusercontent.com/104925648/217009560-c2b53fe8-e918-4a72-9957-53225ce36453.png)
+
+18.Determine la inductancia total de cada circuito mostrado en la figura 13-47.
+
+![image](https://user-images.githubusercontent.com/104925648/217009691-9f32d70c-39e3-4a4e-8071-2706affb0d81.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217011571-a5849d1e-6e91-431e-8d44-4c1366d95952.png)
+
+## Sección 13-4 Inductores en circuitos de cd
+
+20.En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
+
+- a) 56 ohm, L=50 uH
+- b) R= 3300 ohm, L=15 mH
+- c) R=22 kohm, L=100 mH
+
+![image](https://user-images.githubusercontent.com/104925648/217013690-9031a14b-51e3-4457-bc27-99164fd6cd0f.png)
+
+22.Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes:
+
+- a) 10 us
+- b) 20 us
+- c) 30 us
+
+![image](https://user-images.githubusercontent.com/104925648/217013954-80e199c5-9bb2-40c8-81e2-08a5c2dc5c7d.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217014952-8ca5c71d-6550-4f3e-92be-7da242a048e1.png)
+
+24.Repita el problema 22 para los siguientes instantes:
+
+- a) 65 us
+- b) 75 us
+- c) 85 us
+
+![image](https://user-images.githubusercontent.com/104925648/217015322-f7639c0f-7d8e-499a-ac14-508ec8b2e81c.png)
+
+26. (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadrada está creciendo?
+(b) ¿Cuál es la corriente justo antes de que la onda cuadrada se reduzca a cero?
+
+![image](https://user-images.githubusercontent.com/104925648/217015468-a896b782-83e4-4f50-9268-bc648febbfe2.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217016181-e55438b6-3de1-4e2b-b2af-95cbfb213ba1.png)
+
+28. (a) ¿Cuál es la corriente en el inductor 1.0 ms después de que se cierra el interruptor en la figura 13-50?
+(b) ¿Cuál es la corriente después de que transcurren 5t?
+
+![image](https://user-images.githubusercontent.com/104925648/217016333-6799f240-1ed3-452b-9a2d-04658381f5bb.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217019196-940343fc-381b-4027-b5f1-7da150f91952.png)
+
+## Sección 13-5 Inductores en circuitos de ca
+
+30.Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales
+
+![image](https://user-images.githubusercontent.com/104925648/217019486-1b6e9d01-678b-4b78-b2f4-550e8b65e317.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217021301-76fe0b46-2d8f-4b6d-96e4-be835919e635.png)
+
+32.En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
+
+![image](https://user-images.githubusercontent.com/104925648/217021421-f0cb97a4-efc9-4ae6-9489-000873a448d1.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217021539-aaa044d6-d98d-4a56-a216-c9535e80e879.png)
+
+34.En la figura 13-51, determine la potencia reactiva.
+
+![image](https://user-images.githubusercontent.com/104925648/217021637-d9bc0a32-9b24-490e-bc51-b51324bc3f39.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217022638-210ff763-12fb-4244-86bc-bd305dcc5241.png)
 
 
-
-
-
-## Sección 11-1 La forma de onda sinusoidal
-
-2.Calcule el periodo de cada uno de los siguientes valores de frecuencia:
-
-- a) 1 Hz
-- b) 60 Hz
-- c) 500 Hz
-- d) 1 KHz
-- e) 200 kHz
-- f) 5 MHz
-
-
-
-
-## Sección 11-2 Fuentes de voltaje sinusoidal
-
-## Sección 11-3 Fuentes de voltaje sinusoidal
-
-
-
-# Resolución de ejercicios pares *CAPITULO 12*:
+# Resolución de ejercicios pares *CAPITULO 14*:
 
 ## Autoevaluación:
 
