@@ -269,20 +269,105 @@ Consulte la figura 13-52.
 
 ## Autoevaluación:
 
-2.¿Cuál de los siguientes enunciados es verdadero?
+2.¿Cuál de los siguientes voltajes se ve afectado por la relación de vueltas de un transformador?
 
-- a) Existe corriente a través del dieléctrico de un capacitor de carga. 
-- **b) Cuando se conecta un capacitor a una fuente de voltaje de cd, se cargará al valor de la fuente** ←
-- c) Un capacitor ideal puede ser descargado desconectándolo de la fuente de voltaje.
+- a) voltaje primario
+- b) voltaje de cd
+- c) **voltaje secundario** ←
+- d) ninguno de éstos
+
+4.Cuando la relación de vueltas de un transformador es de 10 y el voltaje de ca primario es de 6 V, el voltaje secundario es de
+
+- a) **60 V** ←
+- b) 0.6 V
+- c) 6 V
+- d) 36 V
+
+6.Cierto transformador tiene 500 vueltas en el devanado primario y 2500 en el secundario. La relación de vueltas es de
+
+- a) 0.2
+- b) 2.5
+- c) **5** ←
+- d) 0.5
+
+8.En cierto transformador cargado, el voltaje secundario es un tercio del voltaje primario. La corriente secundaria es
+
+- a) un tercio de la corriente primaria
+- b) **tres veces la corriente primaria** ←
+- c) tres veces la corriente primaria
+- d) menor que la corriente primaria
+
+10.En la pregunta 9, si la relación de vueltas es de 0.5, la fuente “ve” una carga reflejada de
+
+- a) 1 kohm
+- b) 2 kophm
+- c) **4 kohm** ←
+- d) 500 ohm
+
+12.Se transfiere potencia máxima de una fuente a una carga en un circuito acoplado por transformador cuando
+
+![image](https://user-images.githubusercontent.com/104925648/217024199-3b4dff4f-e1be-4c88-af6d-2a08b8e58be9.png)
+
+14.Cierto transformador tiene relación de vueltas de 1 y coeficiente de acoplamiento de 0.95. Cuando se aplica un 1 V de ca al primario, el voltaje secundario es de
+
+- a) 1 V
+- b) 1.95 V
+- c) **0.95 V** ←
+
+## Exámen rápido de dinámica de circuitos
+
+Consulte la figura 14-43(c).
+
+![image](https://user-images.githubusercontent.com/104925648/217024637-9453f1c1-0f41-4d00-9bd3-ecc8d713b579.png)
+
+2.Si la fuente de cd se pone en cortocircuito, el voltaje a través de RL
+
+- a) aumenta
+- b) disminuye
+- c) **no cambia** ←
+
+Consulte la figura 14-45
+
+![image](https://user-images.githubusercontent.com/104925648/217024928-2048f398-b9d1-4c25-8619-aafc5dbef578.png)
+
+4.Si el fusible se abre, el voltaje a través de RL
+
+- a) aumenta
+- b) **disminuye** ←
+- c) no cambia
+
+6.Si la frecuencia del voltaje de fuente se incrementa, el voltaje a través de RL
+
+- a) aumenta
+- b) disminuye
+- c) **no cambia** ←
+
+Consulte la figura 14-49.
+
+![image](https://user-images.githubusercontent.com/104925648/217025216-7750dc7e-107c-4b6e-93a8-3111a129dea8.png)
+
+8.Si la relación de vueltas se incrementa, el volumen del sonido que sale del altavoz
+
+- a) **aumenta** ←
+- b) disminuye
+- c) no cambia
+
+Consulte la figura 14-50.
+
+![image](https://user-images.githubusercontent.com/104925648/217025404-a4939693-0a6e-488c-9879-0818f5ddcd5f.png)
+
+10.De nuevo, se aplican 10 V rms a través del primario. Con ambos interruptores en la posición 1 como
+se muestra y si R1 se abre, el voltaje a través de R1
+
+- a) aumenta
+- b) disminuye
+- c) **no cambia** ←
+
+## Sección 14-1 Inductancia mutua
+
+2.Determine el coeficiente de acoplamiento cuando LM 5 1 mH, L1 5 8 mH, y L2 5 2 mH.
 
 
-## Sección 12-1 El capacitor básico
-
-2.Transforme los siguientes valores de microfarads a picofarads:
-
-- a) 0.1 uF
-- b) 0.0025 uF
-- c) 4.7 uF
 
 ## Sección 12-2 Tipos de capacitores
 
