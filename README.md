@@ -2,7 +2,7 @@
 ># 1. OBJETIVOS
 # General:
 
-- Comprender los conceptos de inductores y transformadores, mediante la investigación de los capítulos 13 y 14 del libro "Principios de Circuitos Eléctricos" de Thomas Floyd, para desarrollar correctamente los ejercicios planteados con ayuda de los conocimientos adquiridos en clase.
+- Comprender los conceptos de inductore y transformador, mediante la investigación de los capítulos 13 y 14 del libro "Principios de Circuitos Eléctricos" de Thomas Floyd, para desarrollar correctamente los ejercicios planteados con ayuda de los conocimientos adquiridos en clase.
 
  # Específicos:
  
