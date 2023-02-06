@@ -19,8 +19,6 @@ los temas propuestos:
 
 ![image](https://user-images.githubusercontent.com/104925648/216991500-753c05df-fa1a-4f59-b5e4-a7a072250208.png)
 
-![image](https://user-images.githubusercontent.com/104925648/216991679-9334d3db-409f-4c87-8f6a-4da1695c6bff.png)
-
 ![image](https://user-images.githubusercontent.com/104925648/216991749-63775a4f-1d4a-4bec-89b5-04c5ef08fe0f.png)
 
 ![image](https://user-images.githubusercontent.com/104925648/216991809-07a229f0-2ad1-41f3-b4e7-5c386407042e.png)
